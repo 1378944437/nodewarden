@@ -40,4 +40,4 @@ new_sqlite_classes = [ "BackupTransferRunner" ]
 
 [vars]
 JWT_SECRET = "uQnB1Cqb-kqgtWg3y9v5OqkhVCEYIQpz"
-SIGNUPS_ALLOWED = "true"
+SIGNUPS_ALLOWED = "false"
